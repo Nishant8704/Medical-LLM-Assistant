@@ -38,10 +38,8 @@ Make sure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Medical-LLM-Assistant.git](https://github.com/your-username/Medical-LLM-Assistant.git)
+    git clone [https://github.com/Nishant8704/Medical-LLM-Assistant.git](https://github.com/Nishant8704/Medical-LLM-Assistant.git)
     ```
-    *Replace `your-username` with your actual GitHub username.*
-
 2.  **Navigate to the project directory:**
     ```bash
     cd Medical-LLM-Assistant
