@@ -1,5 +1,5 @@
 {
     "rewrites": [
-        {"source":"/{.*}", "destination": "/chat.html"}
+        {"source":"/{.*}", "destination": "/" }
     ]
 }
